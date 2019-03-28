@@ -11,36 +11,36 @@
     },
     {
       "provider": "whatsapp",
-      "text": "populify visual stories"
+      "text": "Hi this is populify visual stories"
     },
     {
       "provider": "email",
       "subject": "populify visual stories",
-      "body": "populify.com visual stories click disini : populify.com/visual-stories",
+      "body": "populify.com visual stories click in here : https://populify.com/visual-stories/",
       "recipient": ""
     }
   ],
   "components": [
     {
       "type": "heading",
-      "text": "More to read"
+      "text": "See More Reads"
     },
     {
       "type": "small",
-      "title": "Learn about cats",
+      "title": "Reads about cats",
       "url": "https://wikipedia.org/wiki/Cat",
       "image": "assets/bookend_cats.jpg"
     },
     {
       "type": "landscape",
-      "title": "Learn about border collies",
+      "title": "Reads about border collies",
       "url": "https://wikipedia.org/wiki/Border_Collie",
       "image": "assets/bookend_dogs.jpg",
       "category": "Dogs"
     },
     {
       "type": "portrait",
-      "title": "Learn about macaws",
+      "title": "Reads about macaws",
       "url": "https://wikipedia.org/wiki/Macaw",
       "image": "assets/bookend_birds.jpg",
       "category": "birds"
@@ -49,7 +49,7 @@
       "type": "cta-link",
       "links": [
         {
-          "text": "Learn more",
+          "text": "Reads more",
           "url": "https://populify.com/visual-stories/"
         }
       ]
